@@ -1,1 +1,1 @@
-welcome to snit
+welcome to snit git
